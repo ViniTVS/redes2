@@ -1,0 +1,16 @@
+{
+    "localizacoes": [
+        {
+            "local": "Oymyakon (cidade habitada com as temperaturas mais baixas já registradas)",
+            "link": "https://wttr.in/Oymyakon"
+        },
+        {
+            "local": "Murzuq (Deserto do Saara)",
+            "link": "https://wttr.in/Murzuq"
+        },
+        {
+            "local": "Urupema",
+            "link": ""
+        } 
+    ]
+}
